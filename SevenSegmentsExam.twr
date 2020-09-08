@@ -1,0 +1,77 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml SevenSegmentsExam.twx SevenSegmentsExam.ncd -o
+SevenSegmentsExam.twr SevenSegmentsExam.pcf
+
+Design file:              SevenSegmentsExam.ncd
+Physical constraint file: SevenSegmentsExam.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+A              |e              |    5.463|
+A              |h              |    5.353|
+A              |j              |    5.188|
+A              |k              |    5.644|
+B              |e              |    5.407|
+B              |f              |    5.416|
+B              |g              |    5.247|
+B              |h              |    5.884|
+B              |i              |    5.478|
+B              |j              |    5.727|
+B              |k              |    5.596|
+C              |e              |    5.630|
+C              |f              |    5.320|
+C              |g              |    5.361|
+C              |h              |    5.805|
+C              |i              |    5.391|
+C              |j              |    5.632|
+C              |k              |    5.804|
+D              |e              |    5.283|
+D              |f              |    5.261|
+D              |g              |    5.185|
+D              |h              |    5.562|
+D              |i              |    5.325|
+D              |j              |    5.401|
+D              |k              |    5.466|
+---------------+---------------+---------+
+
+
+Analysis completed Sun Sep 06 13:23:38 2020 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 5001 MB
+
+
+

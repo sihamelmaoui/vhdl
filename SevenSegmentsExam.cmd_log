@@ -1,0 +1,20 @@
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "SevenSegmentsExam.ngc" SevenSegmentsExam.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SevenSegmentsExam_map.ncd SevenSegmentsExam.ngd SevenSegmentsExam.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentsExam_map.ncd SevenSegmentsExam.ncd SevenSegmentsExam.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentsExam.twx SevenSegmentsExam.ncd -o SevenSegmentsExam.twr SevenSegmentsExam.pcf 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "SevenSegmentsExam.ngc" SevenSegmentsExam.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SevenSegmentsExam_map.ncd SevenSegmentsExam.ngd SevenSegmentsExam.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentsExam_map.ncd SevenSegmentsExam.ncd SevenSegmentsExam.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentsExam.twx SevenSegmentsExam.ncd -o SevenSegmentsExam.twr SevenSegmentsExam.pcf 
+xst -intstyle ise -ifn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.xst" -ofn "C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.syr" 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 15: Formal port &lt;<arg fmt="%s" index="1">A</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 16: Formal port &lt;<arg fmt="%s" index="1">B</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 17: Formal port &lt;<arg fmt="%s" index="1">C</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 18: Formal port &lt;<arg fmt="%s" index="1">D</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 19: Formal port &lt;<arg fmt="%s" index="1">e</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 20: Formal port &lt;<arg fmt="%s" index="1">f</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 21: Formal port &lt;<arg fmt="%s" index="1">g</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 22: Formal port &lt;<arg fmt="%s" index="1">h</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 23: Formal port &lt;<arg fmt="%s" index="1">i</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 24: Formal port &lt;<arg fmt="%s" index="1">j</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1156" delta="unknown" >"C:/Users/Siham ELMAOUI/Desktop/VHDL/SevenSegmentInAnOtherWay/SevenSegmentsExam.vhd" Line 25: Formal port &lt;<arg fmt="%s" index="1">k</arg>&gt; does not exist in entity &lt;<arg fmt="%s" index="2">SevenSegmentsExam</arg>&gt;.  Please compare the definition of block &lt;<arg fmt="%s" index="3">SevenSegmentsExam</arg>&gt; to its component declaration and its instantion to detect the mismatch.
+</msg>
+
+<msg type="error" file="Simulator" num="777" delta="unknown" >Static elaboration of top level VHDL design unit <arg fmt="%s" index="1">sevensegmentsexam</arg> in library <arg fmt="%s" index="2">work</arg> failed
+</msg>
+
+</messages>
+
